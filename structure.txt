@@ -1,0 +1,27 @@
+~/dotfiles
+|-- bash
+|   |-- aliases
+|   |-- config
+|   |-- env
+|   `-- promptcolors
+|-- bash_profile
+|-- bashrc
+|-- gitconfig
+|-- gvimrc
+|-- hg-templates
+|   |-- map-cmdline.dlog
+|   |-- map-cmdline.nlog
+|   |-- map-cmdline.sglog
+|   `-- map-cmdline.slog
+|-- hgrc
+|-- ssh
+|   `-- config
+|-- vim
+|   |-- after
+|   |-- colemak-mappings.vim
+|   |-- colors
+|   |-- doc
+|   |-- filetype.vim
+|   |-- ftplugin
+|   `-- plugin
+`-- vimrc
